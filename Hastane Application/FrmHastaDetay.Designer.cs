@@ -1,0 +1,323 @@
+﻿namespace Hastane_Application
+{
+    partial class FrmHastaDetay
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmHastaDetay));
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.hdtc = new System.Windows.Forms.Label();
+            this.hdadsoyad = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.hdduzenle = new System.Windows.Forms.LinkLabel();
+            this.hdbuton = new System.Windows.Forms.Button();
+            this.label7 = new System.Windows.Forms.Label();
+            this.hdsikayet = new System.Windows.Forms.RichTextBox();
+            this.hddoktor = new System.Windows.Forms.ComboBox();
+            this.label6 = new System.Windows.Forms.Label();
+            this.hdbrans = new System.Windows.Forms.ComboBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.groupBox4 = new System.Windows.Forms.GroupBox();
+            this.dataGridView2 = new System.Windows.Forms.DataGridView();
+            this.hdid = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.groupBox1.SuspendLayout();
+            this.groupBox2.SuspendLayout();
+            this.groupBox3.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            this.groupBox4.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // groupBox1
+            // 
+            this.groupBox1.Controls.Add(this.hdtc);
+            this.groupBox1.Controls.Add(this.hdadsoyad);
+            this.groupBox1.Controls.Add(this.label1);
+            this.groupBox1.Controls.Add(this.label5);
+            this.groupBox1.Font = new System.Drawing.Font("Corbel", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.groupBox1.Location = new System.Drawing.Point(14, 14);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(5);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(5);
+            this.groupBox1.Size = new System.Drawing.Size(308, 192);
+            this.groupBox1.TabIndex = 0;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "Kişi Bilgi";
+            // 
+            // hdtc
+            // 
+            this.hdtc.AutoSize = true;
+            this.hdtc.Location = new System.Drawing.Point(133, 69);
+            this.hdtc.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.hdtc.Name = "hdtc";
+            this.hdtc.Size = new System.Drawing.Size(100, 23);
+            this.hdtc.TabIndex = 10;
+            this.hdtc.Text = "000000000";
+            // 
+            // hdadsoyad
+            // 
+            this.hdadsoyad.AutoSize = true;
+            this.hdadsoyad.Location = new System.Drawing.Point(133, 127);
+            this.hdadsoyad.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.hdadsoyad.Name = "hdadsoyad";
+            this.hdadsoyad.Size = new System.Drawing.Size(76, 23);
+            this.hdadsoyad.TabIndex = 9;
+            this.hdadsoyad.Text = "Null Null";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(10, 127);
+            this.label1.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(89, 23);
+            this.label1.TabIndex = 8;
+            this.label1.Text = "Ad Soyad:";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(25, 69);
+            this.label5.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(60, 23);
+            this.label5.TabIndex = 7;
+            this.label5.Text = "Tc No:";
+            // 
+            // groupBox2
+            // 
+            this.groupBox2.Controls.Add(this.label2);
+            this.groupBox2.Controls.Add(this.hdid);
+            this.groupBox2.Controls.Add(this.hdduzenle);
+            this.groupBox2.Controls.Add(this.hdbuton);
+            this.groupBox2.Controls.Add(this.label7);
+            this.groupBox2.Controls.Add(this.hdsikayet);
+            this.groupBox2.Controls.Add(this.hddoktor);
+            this.groupBox2.Controls.Add(this.label6);
+            this.groupBox2.Controls.Add(this.hdbrans);
+            this.groupBox2.Controls.Add(this.label4);
+            this.groupBox2.Location = new System.Drawing.Point(14, 239);
+            this.groupBox2.Margin = new System.Windows.Forms.Padding(5);
+            this.groupBox2.Name = "groupBox2";
+            this.groupBox2.Padding = new System.Windows.Forms.Padding(5);
+            this.groupBox2.Size = new System.Drawing.Size(308, 386);
+            this.groupBox2.TabIndex = 1;
+            this.groupBox2.TabStop = false;
+            this.groupBox2.Text = "Randevu Paneli";
+            // 
+            // hdduzenle
+            // 
+            this.hdduzenle.AutoSize = true;
+            this.hdduzenle.Location = new System.Drawing.Point(10, 348);
+            this.hdduzenle.Name = "hdduzenle";
+            this.hdduzenle.Size = new System.Drawing.Size(153, 23);
+            this.hdduzenle.TabIndex = 17;
+            this.hdduzenle.TabStop = true;
+            this.hdduzenle.Text = "Bilgilerimi Düzenle";
+            this.hdduzenle.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.hdduzenle_LinkClicked);
+            // 
+            // hdbuton
+            // 
+            this.hdbuton.Location = new System.Drawing.Point(88, 309);
+            this.hdbuton.Name = "hdbuton";
+            this.hdbuton.Size = new System.Drawing.Size(145, 32);
+            this.hdbuton.TabIndex = 16;
+            this.hdbuton.Text = "Randevu Al";
+            this.hdbuton.UseVisualStyleBackColor = true;
+            this.hdbuton.Click += new System.EventHandler(this.hdbuton_Click);
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(8, 197);
+            this.label7.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(72, 23);
+            this.label7.TabIndex = 15;
+            this.label7.Text = "Şikayet:";
+            // 
+            // hdsikayet
+            // 
+            this.hdsikayet.Location = new System.Drawing.Point(88, 194);
+            this.hdsikayet.Name = "hdsikayet";
+            this.hdsikayet.Size = new System.Drawing.Size(169, 91);
+            this.hdsikayet.TabIndex = 2;
+            this.hdsikayet.Text = "";
+            // 
+            // hddoktor
+            // 
+            this.hddoktor.FormattingEnabled = true;
+            this.hddoktor.Location = new System.Drawing.Point(88, 140);
+            this.hddoktor.Name = "hddoktor";
+            this.hddoktor.Size = new System.Drawing.Size(169, 31);
+            this.hddoktor.TabIndex = 14;
+            this.hddoktor.SelectedIndexChanged += new System.EventHandler(this.hddoktor_SelectedIndexChanged);
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(10, 143);
+            this.label6.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(70, 23);
+            this.label6.TabIndex = 13;
+            this.label6.Text = "Doktor:";
+            // 
+            // hdbrans
+            // 
+            this.hdbrans.FormattingEnabled = true;
+            this.hdbrans.Location = new System.Drawing.Point(88, 92);
+            this.hdbrans.Name = "hdbrans";
+            this.hdbrans.Size = new System.Drawing.Size(169, 31);
+            this.hdbrans.TabIndex = 12;
+            this.hdbrans.SelectedIndexChanged += new System.EventHandler(this.hdbrans_SelectedIndexChanged);
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(21, 95);
+            this.label4.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(59, 23);
+            this.label4.TabIndex = 11;
+            this.label4.Text = "Branş:";
+            // 
+            // groupBox3
+            // 
+            this.groupBox3.Controls.Add(this.dataGridView1);
+            this.groupBox3.Location = new System.Drawing.Point(350, 14);
+            this.groupBox3.Name = "groupBox3";
+            this.groupBox3.Size = new System.Drawing.Size(623, 320);
+            this.groupBox3.TabIndex = 2;
+            this.groupBox3.TabStop = false;
+            this.groupBox3.Text = "Randevu Geçmişi:";
+            // 
+            // dataGridView1
+            // 
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.dataGridView1.Location = new System.Drawing.Point(3, 27);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.Size = new System.Drawing.Size(617, 290);
+            this.dataGridView1.TabIndex = 0;
+            // 
+            // groupBox4
+            // 
+            this.groupBox4.Controls.Add(this.dataGridView2);
+            this.groupBox4.Location = new System.Drawing.Point(350, 362);
+            this.groupBox4.Name = "groupBox4";
+            this.groupBox4.Size = new System.Drawing.Size(623, 263);
+            this.groupBox4.TabIndex = 3;
+            this.groupBox4.TabStop = false;
+            this.groupBox4.Text = "Aktif Randevular:";
+            // 
+            // dataGridView2
+            // 
+            this.dataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.dataGridView2.Location = new System.Drawing.Point(3, 27);
+            this.dataGridView2.Name = "dataGridView2";
+            this.dataGridView2.Size = new System.Drawing.Size(617, 233);
+            this.dataGridView2.TabIndex = 0;
+            this.dataGridView2.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView2_CellClick);
+            // 
+            // hdid
+            // 
+            this.hdid.Location = new System.Drawing.Point(88, 45);
+            this.hdid.Name = "hdid";
+            this.hdid.Size = new System.Drawing.Size(169, 31);
+            this.hdid.TabIndex = 19;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(50, 45);
+            this.label2.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(30, 23);
+            this.label2.TabIndex = 20;
+            this.label2.Text = "Id:";
+            // 
+            // FrmHastaDetay
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 23F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.BackColor = System.Drawing.Color.CadetBlue;
+            this.ClientSize = new System.Drawing.Size(985, 652);
+            this.Controls.Add(this.groupBox4);
+            this.Controls.Add(this.groupBox3);
+            this.Controls.Add(this.groupBox2);
+            this.Controls.Add(this.groupBox1);
+            this.Font = new System.Drawing.Font("Corbel", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(5);
+            this.MaximizeBox = false;
+            this.Name = "FrmHastaDetay";
+            this.Text = "Hasta Detay";
+            this.Load += new System.EventHandler(this.FrmHastaDetay_Load);
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox1.PerformLayout();
+            this.groupBox2.ResumeLayout(false);
+            this.groupBox2.PerformLayout();
+            this.groupBox3.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            this.groupBox4.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).EndInit();
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label hdtc;
+        private System.Windows.Forms.Label hdadsoyad;
+        private System.Windows.Forms.GroupBox groupBox2;
+        private System.Windows.Forms.Button hdbuton;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.RichTextBox hdsikayet;
+        private System.Windows.Forms.ComboBox hddoktor;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.ComboBox hdbrans;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.GroupBox groupBox3;
+        private System.Windows.Forms.GroupBox groupBox4;
+        private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.DataGridView dataGridView2;
+        private System.Windows.Forms.LinkLabel hdduzenle;
+        private System.Windows.Forms.TextBox hdid;
+        private System.Windows.Forms.Label label2;
+    }
+}

@@ -1,0 +1,23 @@
+C:\Users\Okan\Desktop\Software Development\Hastane Application\Hastane Application\bin\Debug\Hastane Application.exe.config
+C:\Users\Okan\Desktop\Software Development\Hastane Application\Hastane Application\bin\Debug\Hastane Application.exe
+C:\Users\Okan\Desktop\Software Development\Hastane Application\Hastane Application\bin\Debug\Hastane Application.pdb
+C:\Users\Okan\Desktop\Software Development\Hastane Application\Hastane Application\obj\Debug\Hastane Application.csproj.AssemblyReference.cache
+C:\Users\Okan\Desktop\Software Development\Hastane Application\Hastane Application\obj\Debug\Hastane_Application.FrmBilgiDuzenle.resources
+C:\Users\Okan\Desktop\Software Development\Hastane Application\Hastane Application\obj\Debug\Hastane_Application.FrmBrans.resources
+C:\Users\Okan\Desktop\Software Development\Hastane Application\Hastane Application\obj\Debug\Hastane_Application.FrmDoktorBilgiDuzenle.resources
+C:\Users\Okan\Desktop\Software Development\Hastane Application\Hastane Application\obj\Debug\Hastane_Application.FrmDoktorDetay.resources
+C:\Users\Okan\Desktop\Software Development\Hastane Application\Hastane Application\obj\Debug\Hastane_Application.FrmDoktorGiris.resources
+C:\Users\Okan\Desktop\Software Development\Hastane Application\Hastane Application\obj\Debug\Hastane_Application.FrmDoktorPaneli.resources
+C:\Users\Okan\Desktop\Software Development\Hastane Application\Hastane Application\obj\Debug\Hastane_Application.FrmDuyurular.resources
+C:\Users\Okan\Desktop\Software Development\Hastane Application\Hastane Application\obj\Debug\Hastane_Application.FrmGirisler.resources
+C:\Users\Okan\Desktop\Software Development\Hastane Application\Hastane Application\obj\Debug\Hastane_Application.FrmHastaDetay.resources
+C:\Users\Okan\Desktop\Software Development\Hastane Application\Hastane Application\obj\Debug\Hastane_Application.FrmHastaKayit.resources
+C:\Users\Okan\Desktop\Software Development\Hastane Application\Hastane Application\obj\Debug\Hastane_Application.FrmRandevuListesi.resources
+C:\Users\Okan\Desktop\Software Development\Hastane Application\Hastane Application\obj\Debug\Hastane_Application.FrmSekreterDetay.resources
+C:\Users\Okan\Desktop\Software Development\Hastane Application\Hastane Application\obj\Debug\Hastane_Application.FrmHastaGiris.resources
+C:\Users\Okan\Desktop\Software Development\Hastane Application\Hastane Application\obj\Debug\Hastane_Application.Properties.Resources.resources
+C:\Users\Okan\Desktop\Software Development\Hastane Application\Hastane Application\obj\Debug\Hastane Application.csproj.GenerateResource.cache
+C:\Users\Okan\Desktop\Software Development\Hastane Application\Hastane Application\obj\Debug\Hastane Application.csproj.CoreCompileInputs.cache
+C:\Users\Okan\Desktop\Software Development\Hastane Application\Hastane Application\obj\Debug\Hastane Application.exe
+C:\Users\Okan\Desktop\Software Development\Hastane Application\Hastane Application\obj\Debug\Hastane Application.pdb
+C:\Users\Okan\Desktop\Software Development\Hastane Application\Hastane Application\obj\Debug\Hastane_Application.FrmSekreterGiris.resources
