@@ -9,10 +9,10 @@ Patients book appointments, doctors view them, secretaries manage the schedule.
 
 ## 🖼️ Screenshots
 Shown below in order:  
-**1. Panel**
+**1. Form**
 
 <p align="center">
-  <img src="./docs/screenshots/panel.png" width="32%">
+  <img src="./docs/screenshots/form.png" width="32%">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="32%">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="32%">
 </p>
