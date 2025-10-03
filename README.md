@@ -28,11 +28,12 @@ Shown below in order:
   <img src="https://img.shields.io/badge/WinForms-000000?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
----
+<br>
 
-## 📄 License
+## 📜 License
 
-License: **MIT**  
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 This project is licensed under the terms described in the [LICENSE](./LICENSE) file.
 
 ---
